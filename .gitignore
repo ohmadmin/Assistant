@@ -1,0 +1,13 @@
+*.log
+target
+env.properties
+archive
+.settings
+.classpath
+.project
+.local-env
+.DS_Store
+*.tgz
+.m2/
+/bin
+test-output
